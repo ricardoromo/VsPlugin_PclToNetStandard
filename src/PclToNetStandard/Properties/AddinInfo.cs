@@ -35,5 +35,5 @@ using Mono.Addins.Description;
 
 [assembly: AddinName("PclToNetStandard")]
 [assembly: AddinCategory("IDE extensions")]
-[assembly: AddinDescription("PclToNetStandard")]
-[assembly: AddinAuthor("Mikayla Hutchinson")]
+[assembly: AddinDescription("Easily convert a PCL project to .NetStandard project ")]
+[assembly: AddinAuthor("Mathieu Clerici")]
