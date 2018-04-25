@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{3D8864DB-21E8-49AF-9362-ECCB505D8AEC}|">
+  <MonoDevelop.Ide.ItemProperties.PclToNetStandard PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PclToNetStandard/MigratePclToNetStandardHandler.cs">
+    <Files>
+      <File FileName="PclToNetStandard/Properties/AddinInfo.cs" Line="23" Column="81" />
+      <File FileName="PclToNetStandard/Properties/Manifest.addin.xml" Line="15" Column="1" />
+      <File FileName="PclToNetStandard/Models/Package.cs" Line="7" Column="39" />
+      <File FileName="PclToNetStandard/MigratePclToNetStandardHandler.cs" Line="56" Column="25" NotebookId="1" />
+      <File FileName="PclToNetStandard/MigrateCommands.cs" Line="7" Column="25" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mathieu/Projects/PclToNetStandard/PclToNetStandard/MigratePclToNetStandardCommand.cs" relfile="PclToNetStandard/MigratePclToNetStandardCommand.cs" line="10" column="30" />
+      <Breakpoint file="/Users/mathieu/Projects/PclToNetStandard/PclToNetStandard/MigratePclToNetStandardCommand.cs" relfile="PclToNetStandard/MigratePclToNetStandardCommand.cs" line="15" column="30" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

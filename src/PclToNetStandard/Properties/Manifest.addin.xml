@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+    <Extension path = "/MonoDevelop/Ide/Commands">
+            <Command id="PclToNetStandard.MigrateCommands.PclToNetStandard"
+               _label="Migrate to .Net Standard"
+               _description="Migrate PCL project to .Net Standard"
+               defaultHandler="PclToNetStandard.MigratePclToNetStandardHandler" />
+    </Extension>
+    <Extension path="/MonoDevelop/Ide/ContextMenu/ProjectPad/Tools">
+        <CommandItem id="PclToNetStandard.MigrateCommands.PclToNetStandard" />
+    </Extension>
+</ExtensionModel>
+
+
